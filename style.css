@@ -1,0 +1,8 @@
+body { background: #8c9c62; margin: 0; font-family: sans-serif; }
+.secure-terminal { padding: 48px; display: flex; }
+.block-email-0 { color: #28022c; font-size: 20px; margin-bottom: 5px; }
+.block-notify-1 { color: #45c1e0; font-size: 15px; margin-bottom: 5px; }
+.block-auth-2 { color: #41a905; font-size: 15px; margin-bottom: 5px; }
+.block-database-3 { color: #36b862; font-size: 14px; margin-bottom: 5px; }
+.block-cluster-4 { color: #a4f91d; font-size: 13px; margin-bottom: 5px; }
+.block-validator-5 { color: #707296; font-size: 13px; margin-bottom: 5px; }
